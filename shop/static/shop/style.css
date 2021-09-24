@@ -1,0 +1,26 @@
+.card-text {
+    color :#19904b;
+    font-weight: 650;
+}
+.card-title {
+    font-weight: 750;
+}
+.btn-view {
+    color: rgb(255, 255, 255);
+    background-color: #01a3a4;
+}
+.btn-add-to-cart {
+    color: rgba(0, 0, 0, 0.794);
+    border-color: #00d2d3;
+}
+.btn-view:hover {
+    color: rgba(255, 255, 255, 0.897);
+    background-color: #008888;
+    text-shadow: 2px 2px 4px #000000;
+}
+.btn-add-to-cart:hover {
+    color: rgba(255, 255, 255, 0.897);
+    background-color: #009e9e;
+    box-shadow: 1px 1px 5px #000000;
+    border-color: #008b8b;
+}
